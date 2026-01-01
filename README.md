@@ -117,7 +117,7 @@ Complete MLOps platform for experiment tracking and model lifecycle management
 
 ### 📫 Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/rahul-kumar-tiwari](https://www.linkedin.com/in/rahultiwari0107/)
+- 💼 **LinkedIn:** [linkedin.com/in/rahultiwari0107](https://www.linkedin.com/in/rahultiwari0107/)
 - 📧 **Email:** rahulraj.tiwari97@gmail.com
 - 📱 **Phone:** +91-7355671818
 - 📍 **Location:** Gurgaon, Haryana, India
