@@ -79,16 +79,6 @@ Complete MLOps platform for experiment tracking and model lifecycle management
 - 🔧 **Improved release reliability to 99.9%** through automated pipelines
 - 🚀 **Increased release frequency by 2×** with fully automated CI/CD
 
-### 📊 GitHub Stats
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahulrajtiwari&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulrajtiwari&layout=compact&theme=radical)
-
-### 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahulrajtiwari&theme=radical)](https://git.io/streak-stats)
-
 ### 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
